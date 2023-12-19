@@ -1,4 +1,4 @@
 # _Grinds_
 ###### Welcome to my Website!!!
-#### JC Music <hr>
-<a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>
+#### JC Music
+### <hr> <a href="https://github.com/seanmch2023/seanmch2023.github.io" target="_blank">Home</a> <hr>
